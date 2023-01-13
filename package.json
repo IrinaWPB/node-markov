@@ -1,0 +1,17 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "school",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
